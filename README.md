@@ -46,4 +46,3 @@ For feedback, collaboration, or questions:
 
 ---
 
-Let me know if you want to add visuals to this README or include SQL/Python steps from your data preprocessing. We could even spice it up with storytelling about how each insight solves an HR problem. Ready to polish it further?
