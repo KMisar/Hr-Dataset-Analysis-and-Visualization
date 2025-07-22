@@ -1,6 +1,3 @@
-Here’s a structured and engaging **README.md** draft for your GitHub project that showcases your HR analytics work beautifully, Khushi! ✨
-
----
 
 # 📊 HR Analytics Dashboard
 
@@ -42,7 +39,7 @@ To explore the dashboard:
 ## 📬 Contact
 For feedback, collaboration, or questions:
 **Created by:** Khushi  
-**Connect on GitHub:** [Your GitHub profile link here]
+**Connect on gmail:** [khushimisar@gmail.com]
 
 ---
 
